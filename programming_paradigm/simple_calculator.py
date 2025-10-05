@@ -1,3 +1,5 @@
+# simple_calculator.py
+
 class SimpleCalculator:
     """A simple calculator class that supports basic arithmetic operations."""
 
@@ -18,4 +20,3 @@ class SimpleCalculator:
         if b == 0:
             return None
         return a / b
-
